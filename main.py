@@ -25,9 +25,4 @@ cross_mark = PhotoImage(file="cross mark.png")
 cross_mark_button = Button(image=cross_mark, background="#3944Bc", borderwidth=0, activebackground="#3944Bc")
 cross_mark_button.grid(row=1, column=1)
 
-
-
-
-
-
 window.mainloop()
